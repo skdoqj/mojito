@@ -53,7 +53,6 @@ function App({ dispatchGetEmoji }) {
         // cocktailsInfo.current = cocktails;
 
         console.log(cocktails.slice(0,20));
-        // set렌더링(1);
 
         
         setcocktailsInfo(cocktails);

@@ -54,7 +54,7 @@ function App({ dispatchGetEmoji }) {
 
         console.log(cocktails.slice(0,20));
         // set렌더링(1);
-        // console.log(cocktailsInfo.current);
+
         
         setcocktailsInfo(cocktails);
     };
